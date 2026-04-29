@@ -70,6 +70,7 @@ Project Structure
 NovaAI/│├── index.html├── style.css├── script.js
 
 Live Demo
+nova-ai-nu-azure.vercel.app
 
 Author
 Tarun
