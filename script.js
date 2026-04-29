@@ -2,7 +2,7 @@ const generateBtn = document.getElementById("generateBtn");
 const userInput = document.getElementById("userInput");
 const aiResponse = document.getElementById("aiResponse");
 
-const API_KEY = "AIzaSyDeRl5J_Z1W-soJkJ0mYDCxbzuJaWRuNws";
+const API_KEY = "";
 
 generateBtn.addEventListener("click", async () => {
 
